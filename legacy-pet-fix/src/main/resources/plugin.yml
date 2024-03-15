@@ -1,0 +1,6 @@
+name: "legacy-pet-fix"
+main: "hu.szviktor.plugins.petfix.PluginBootstrap"
+version: "${project.version}"
+
+authors: ["szviktor"]
+description: "Kisállatok furcsa viselkedésének javítása."
